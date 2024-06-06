@@ -1,5 +1,5 @@
 import comp from "/Users/lion/code/js/codevillage/docs/.vuepress/.temp/pages/opsys.html.vue"
-const data = JSON.parse("{\"path\":\"/opsys.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"opsys.md\"}")
+const data = JSON.parse("{\"path\":\"/opsys.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1717681929000,\"contributors\":[{\"name\":\"baixiaoshi\",\"email\":\"634842632@qq.com\",\"commits\":1}]},\"filePathRelative\":\"opsys.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

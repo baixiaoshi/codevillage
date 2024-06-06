@@ -9,6 +9,7 @@ export default defineUserConfig({
   description: 'My first VuePress Site',
 
   theme: defaultTheme({
+    repo: 'https://github.com/baixiaoshi/codevillage',
     logo: '/imgs/code.png',
     home: '/opsys',
     navbar: [
